@@ -6,4 +6,5 @@ Small & Super cheap 4x3 ortho macropad with space for 2 rotary encoders based on
 TODO:   
 File Validation   
 Production   
-QMK   
+QMK/VIAL   
+Create BOM and buildguide   
