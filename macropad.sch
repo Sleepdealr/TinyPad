@@ -454,7 +454,7 @@ U 1 1 60089868
 P 2850 1700
 F 0 "SW2" H 2850 1985 50  0000 C CNN
 F 1 "SW_Push" H 2850 1894 50  0000 C CNN
-F 2 "macropad:TACT_SWITCH_TVBP06" H 2850 1900 50  0001 C CNN
+F 2 "random-keyboard-parts:Jumper-UserFriendly-Small" H 2850 1900 50  0001 C CNN
 F 3 "~" H 2850 1900 50  0001 C CNN
 	1    2850 1700
 	-1   0    0    -1  

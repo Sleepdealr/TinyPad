@@ -31,9 +31,9 @@ Wire Wire Line
 	3950 2200 4100 2200
 Wire Wire Line
 	3950 2000 4100 2000
-Text GLabel 3950 2000 0    50   Input ~ 0
-ENCB
 Text GLabel 3950 2200 0    50   Input ~ 0
+ENCB
+Text GLabel 3950 2000 0    50   Input ~ 0
 ENCA
 Text GLabel 1200 2100 0    50   Input ~ 0
 ENCB
@@ -454,7 +454,7 @@ U 1 1 60089868
 P 2850 1700
 F 0 "SW2" H 2850 1985 50  0000 C CNN
 F 1 "SW_Push" H 2850 1894 50  0000 C CNN
-F 2 "macropad:TACT_SWITCH_TVBP06" H 2850 1900 50  0001 C CNN
+F 2 "random-keyboard-parts:Jumper-UserFriendly-Small" H 2850 1900 50  0001 C CNN
 F 3 "~" H 2850 1900 50  0001 C CNN
 	1    2850 1700
 	-1   0    0    -1  
@@ -525,9 +525,9 @@ Wire Wire Line
 	7900 1900 7750 1900
 Wire Wire Line
 	7900 2100 7750 2100
-Text GLabel 7900 2100 2    50   Input ~ 0
-ENCB1
 Text GLabel 7900 1900 2    50   Input ~ 0
+ENCB1
+Text GLabel 7900 2100 2    50   Input ~ 0
 ENCA1
 Wire Wire Line
 	4700 2200 5650 2200
@@ -559,7 +559,7 @@ F 1 "Ec11" H 7450 2276 50  0000 C CNN
 F 2 "macropad:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 7300 2160 50  0001 C CNN
 F 3 "~" H 7450 2260 50  0001 C CNN
 	1    7450 2000
-	-1   0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:Rotary_Encoder_Switch SW1
@@ -570,7 +570,7 @@ F 1 "Ec11" H 4400 2376 50  0000 C CNN
 F 2 "macropad:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 4250 2260 50  0001 C CNN
 F 3 "~" H 4400 2360 50  0001 C CNN
 	1    4400 2100
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	7750 2000 8300 2000
