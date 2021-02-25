@@ -1,10 +1,5 @@
 # Tinypad 4x3 Macropad
 
-Small & Super cheap 4x3 ortho macropad with space for 2 rotary encoders based on the Arduino Pro Micro
+Small & cheap 4x3 macropad with space for 2 rotary encoders
 
-
-TODO:   
-File Validation   
-Production   
-QMK/VIAL   
-Create BOM and buildguide   
+![alt text](https://cdn.discordapp.com/attachments/695498165935145020/814281217532755968/20210224_184217.jpg)
